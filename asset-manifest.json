@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/your-repo/static/css/main.50d368d1.css",
-    "main.js": "/your-repo/static/js/main.dff80bb7.js",
-    "static/js/453.4913ee7a.chunk.js": "/your-repo/static/js/453.4913ee7a.chunk.js",
-    "static/media/matcha-latte.png": "/your-repo/static/media/matcha-latte.ef772f726bfbfd680007.png",
-    "static/media/the-cabin.png": "/your-repo/static/media/the-cabin.6831cbc14a38dc0db045.png",
-    "static/media/golden-milk.png": "/your-repo/static/media/golden-milk.a513b26fd85d4e1e91ce.png",
-    "static/media/chai-latte.png": "/your-repo/static/media/chai-latte.65e0bd880579bab724de.png",
-    "static/media/pumpkin-spice-latte.png": "/your-repo/static/media/pumpkin-spice-latte.e8f296e053027d4fadfb.png",
-    "static/media/hot-chocolate.png": "/your-repo/static/media/hot-chocolate.08d896ee42e0871c565c.png",
-    "static/media/peppermint-mocha.png": "/your-repo/static/media/peppermint-mocha.22488d037864551f04e9.png",
-    "index.html": "/your-repo/index.html",
-    "main.50d368d1.css.map": "/your-repo/static/css/main.50d368d1.css.map",
-    "main.dff80bb7.js.map": "/your-repo/static/js/main.dff80bb7.js.map",
-    "453.4913ee7a.chunk.js.map": "/your-repo/static/js/453.4913ee7a.chunk.js.map"
+    "main.css": "/cozycabincafe/static/css/main.50d368d1.css",
+    "main.js": "/cozycabincafe/static/js/main.9f03bdfd.js",
+    "static/js/453.4913ee7a.chunk.js": "/cozycabincafe/static/js/453.4913ee7a.chunk.js",
+    "static/media/matcha-latte.png": "/cozycabincafe/static/media/matcha-latte.ef772f726bfbfd680007.png",
+    "static/media/the-cabin.png": "/cozycabincafe/static/media/the-cabin.6831cbc14a38dc0db045.png",
+    "static/media/golden-milk.png": "/cozycabincafe/static/media/golden-milk.a513b26fd85d4e1e91ce.png",
+    "static/media/chai-latte.png": "/cozycabincafe/static/media/chai-latte.65e0bd880579bab724de.png",
+    "static/media/pumpkin-spice-latte.png": "/cozycabincafe/static/media/pumpkin-spice-latte.e8f296e053027d4fadfb.png",
+    "static/media/hot-chocolate.png": "/cozycabincafe/static/media/hot-chocolate.08d896ee42e0871c565c.png",
+    "static/media/peppermint-mocha.png": "/cozycabincafe/static/media/peppermint-mocha.22488d037864551f04e9.png",
+    "index.html": "/cozycabincafe/index.html",
+    "main.50d368d1.css.map": "/cozycabincafe/static/css/main.50d368d1.css.map",
+    "main.9f03bdfd.js.map": "/cozycabincafe/static/js/main.9f03bdfd.js.map",
+    "453.4913ee7a.chunk.js.map": "/cozycabincafe/static/js/453.4913ee7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50d368d1.css",
-    "static/js/main.dff80bb7.js"
+    "static/js/main.9f03bdfd.js"
   ]
 }
