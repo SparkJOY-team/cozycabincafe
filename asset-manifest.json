@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cozycabincafe/static/css/main.50d368d1.css",
+    "main.css": "/cozycabincafe/static/css/main.9d1f6a5d.css",
     "main.js": "/cozycabincafe/static/js/main.9f03bdfd.js",
     "static/js/453.4913ee7a.chunk.js": "/cozycabincafe/static/js/453.4913ee7a.chunk.js",
     "static/media/matcha-latte.png": "/cozycabincafe/static/media/matcha-latte.ef772f726bfbfd680007.png",
@@ -11,12 +11,12 @@
     "static/media/hot-chocolate.png": "/cozycabincafe/static/media/hot-chocolate.08d896ee42e0871c565c.png",
     "static/media/peppermint-mocha.png": "/cozycabincafe/static/media/peppermint-mocha.22488d037864551f04e9.png",
     "index.html": "/cozycabincafe/index.html",
-    "main.50d368d1.css.map": "/cozycabincafe/static/css/main.50d368d1.css.map",
+    "main.9d1f6a5d.css.map": "/cozycabincafe/static/css/main.9d1f6a5d.css.map",
     "main.9f03bdfd.js.map": "/cozycabincafe/static/js/main.9f03bdfd.js.map",
     "453.4913ee7a.chunk.js.map": "/cozycabincafe/static/js/453.4913ee7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50d368d1.css",
+    "static/css/main.9d1f6a5d.css",
     "static/js/main.9f03bdfd.js"
   ]
 }
